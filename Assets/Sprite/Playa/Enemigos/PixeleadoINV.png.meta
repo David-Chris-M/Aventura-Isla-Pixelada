@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 550453f0e6e8df04a85c987b535cec52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8779992566762793311
+    second: PixeleadoINV_0
+  - first:
+      213: 7030767911985421899
+    second: PixeleadoINV_1
+  - first:
+      213: -8220731461880383425
+    second: PixeleadoINV_2
+  - first:
+      213: -8685275802901370191
+    second: PixeleadoINV_3
+  - first:
+      213: -5386614812203683827
+    second: PixeleadoINV_4
+  - first:
+      213: 7414118717584243453
+    second: PixeleadoINV_5
+  - first:
+      213: -2439033500747880337
+    second: PixeleadoINV_6
+  - first:
+      213: -7202199097174547125
+    second: PixeleadoINV_7
+  - first:
+      213: 8295608810842202190
+    second: PixeleadoINV_8
+  - first:
+      213: 6147131943006333341
+    second: PixeleadoINV_9
+  - first:
+      213: 1660604846139126845
+    second: PixeleadoINV_10
+  - first:
+      213: 8313225724794125983
+    second: PixeleadoINV_11
+  - first:
+      213: 6228814622597296111
+    second: PixeleadoINV_12
+  - first:
+      213: -3356315192715482821
+    second: PixeleadoINV_13
+  - first:
+      213: 7971893655224288560
+    second: PixeleadoINV_14
+  - first:
+      213: 1878699789483763478
+    second: PixeleadoINV_15
+  - first:
+      213: -5141134679869124406
+    second: PixeleadoINV_16
+  - first:
+      213: -503781304076673879
+    second: PixeleadoINV_17
+  - first:
+      213: 6618752518735116327
+    second: PixeleadoINV_18
+  - first:
+      213: -5912144756416165289
+    second: PixeleadoINV_19
+  - first:
+      213: 2234985838434536559
+    second: PixeleadoINV_20
+  - first:
+      213: -7212383383554548631
+    second: PixeleadoINV_21
+  - first:
+      213: 6821298125505986916
+    second: PixeleadoINV_22
+  - first:
+      213: -5611898580807796208
+    second: PixeleadoINV_23
+  - first:
+      213: -1326186994276069560
+    second: PixeleadoINV_24
+  - first:
+      213: -5167473482474017243
+    second: PixeleadoINV_25
+  - first:
+      213: 1418599510495649285
+    second: PixeleadoINV_26
+  - first:
+      213: 2269452809556654315
+    second: PixeleadoINV_27
+  - first:
+      213: -2643800456020264667
+    second: PixeleadoINV_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixeleadoINV_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1210
+        width: 312
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a698876743372680800000000000000
+      internalID: -8779992566762793311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1210
+        width: 322
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1b145a2e429160800000000000000
+      internalID: 7030767911985421899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1210
+        width: 330
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38fdbc6a481aed80800000000000000
+      internalID: -8220731461880383425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_3
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1210
+        width: 322
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa4cf7ca3b77780800000000000000
+      internalID: -8685275802901370191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_4
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1210
+        width: 327
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00fdb82e56ee35b0800000000000000
+      internalID: -5386614812203683827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_5
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1210
+        width: 313
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfafe2421bd34e660800000000000000
+      internalID: 7414118717584243453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_6
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1210
+        width: 314
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6825a024ffc62ed0800000000000000
+      internalID: -2439033500747880337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 766
+        width: 283
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45a54b7416ac0c90800000000000000
+      internalID: -7202199097174547125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 763
+        width: 269
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40a9dde24cef1370800000000000000
+      internalID: 8295608810842202190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_9
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 771
+        width: 285
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99695aeeeffe4550800000000000000
+      internalID: 6147131943006333341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_10
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 763
+        width: 269
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d343a6e2f47ab0710800000000000000
+      internalID: 1660604846139126845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_11
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 770
+        width: 291
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e3ef750c28e5370800000000000000
+      internalID: 8313225724794125983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_12
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 763
+        width: 267
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefaba7c5e1317650800000000000000
+      internalID: 6228814622597296111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_13
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 767
+        width: 276
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3962ff5d19fb61d0800000000000000
+      internalID: -3356315192715482821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 327
+        width: 369
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03585d2ea0bd1ae60800000000000000
+      internalID: 7971893655224288560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_15
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 325
+        width: 355
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617e7c7318b721a10800000000000000
+      internalID: 1878699789483763478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_16
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 326
+        width: 330
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac095ff5f3507a8b0800000000000000
+      internalID: -5141134679869124406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_17
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 326
+        width: 292
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acd606b2953209f0800000000000000
+      internalID: -503781304076673879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_18
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 333
+        width: 345
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728bd6f19588adb50800000000000000
+      internalID: 6618752518735116327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_19
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 326
+        width: 314
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a402dfaa7d3fda0800000000000000
+      internalID: -5912144756416165289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_20
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 326
+        width: 367
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c4be157c3440f10800000000000000
+      internalID: 2234985838434536559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 349
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c1d47868778eb90800000000000000
+      internalID: -7212383383554548631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 31
+        width: 349
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46182dd118e1aae50800000000000000
+      internalID: 6821298125505986916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 30
+        width: 343
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01abe6f49f78e12b0800000000000000
+      internalID: -5611898580807796208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_24
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 55
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f8e6484ff689de0800000000000000
+      internalID: -1326186994276069560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_25
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 41
+        width: 344
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ea2e20f327948b0800000000000000
+      internalID: -5167473482474017243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_26
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 32
+        width: 331
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ed2ad1db0efa310800000000000000
+      internalID: 1418599510495649285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_27
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 36
+        width: 330
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8f2246e47be7f10800000000000000
+      internalID: 2269452809556654315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoINV_28
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 36
+        width: 334
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52975e12e755f4bd0800000000000000
+      internalID: -2643800456020264667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixeleadoINV_0: -8779992566762793311
+      PixeleadoINV_1: 7030767911985421899
+      PixeleadoINV_10: 1660604846139126845
+      PixeleadoINV_11: 8313225724794125983
+      PixeleadoINV_12: 6228814622597296111
+      PixeleadoINV_13: -3356315192715482821
+      PixeleadoINV_14: 7971893655224288560
+      PixeleadoINV_15: 1878699789483763478
+      PixeleadoINV_16: -5141134679869124406
+      PixeleadoINV_17: -503781304076673879
+      PixeleadoINV_18: 6618752518735116327
+      PixeleadoINV_19: -5912144756416165289
+      PixeleadoINV_2: -8220731461880383425
+      PixeleadoINV_20: 2234985838434536559
+      PixeleadoINV_21: -7212383383554548631
+      PixeleadoINV_22: 6821298125505986916
+      PixeleadoINV_23: -5611898580807796208
+      PixeleadoINV_24: -1326186994276069560
+      PixeleadoINV_25: -5167473482474017243
+      PixeleadoINV_26: 1418599510495649285
+      PixeleadoINV_27: 2269452809556654315
+      PixeleadoINV_28: -2643800456020264667
+      PixeleadoINV_3: -8685275802901370191
+      PixeleadoINV_4: -5386614812203683827
+      PixeleadoINV_5: 7414118717584243453
+      PixeleadoINV_6: -2439033500747880337
+      PixeleadoINV_7: -7202199097174547125
+      PixeleadoINV_8: 8295608810842202190
+      PixeleadoINV_9: 6147131943006333341
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

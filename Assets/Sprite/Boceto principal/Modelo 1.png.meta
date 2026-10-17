@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 5f6ae920c0348134e81aec6b9cd0b7d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7015458100056140091
+    second: Modelo 1_0
+  - first:
+      213: -4706353912659179126
+    second: Modelo 1_1
+  - first:
+      213: -4714559720701869730
+    second: Modelo 1_2
+  - first:
+      213: -6798261334486739227
+    second: Modelo 1_3
+  - first:
+      213: 3257229823582105085
+    second: Modelo 1_4
+  - first:
+      213: -5499517521415493305
+    second: Modelo 1_5
+  - first:
+      213: 2239382273836535395
+    second: Modelo 1_6
+  - first:
+      213: 7628696701432485756
+    second: Modelo 1_7
+  - first:
+      213: 1781898895419647329
+    second: Modelo 1_8
+  - first:
+      213: 6351621805456535523
+    second: Modelo 1_9
+  - first:
+      213: -4945207862586311387
+    second: Modelo 1_10
+  - first:
+      213: 415464058105390461
+    second: Modelo 1_11
+  - first:
+      213: 3402289494570400929
+    second: Modelo 1_12
+  - first:
+      213: -2789420898097277460
+    second: Modelo 1_13
+  - first:
+      213: 5263802002128293392
+    second: Modelo 1_14
+  - first:
+      213: 4846083303870619918
+    second: Modelo 1_15
+  - first:
+      213: -6757581599766722713
+    second: Modelo 1_16
+  - first:
+      213: -4283594295884341730
+    second: Modelo 1_17
+  - first:
+      213: -6162434193445956737
+    second: Modelo 1_18
+  - first:
+      213: 3105217988610001880
+    second: Modelo 1_19
+  - first:
+      213: 3025357451846871284
+    second: Modelo 1_20
+  - first:
+      213: -1135004099049704645
+    second: Modelo 1_21
+  - first:
+      213: 4343397783404105669
+    second: Modelo 1_22
+  - first:
+      213: -7850588230619374355
+    second: Modelo 1_23
+  - first:
+      213: 3551048663096758590
+    second: Modelo 1_24
+  - first:
+      213: 1478500741274865717
+    second: Modelo 1_25
+  - first:
+      213: -6501328257262916049
+    second: Modelo 1_26
+  - first:
+      213: 5839784528086154185
+    second: Modelo 1_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modelo 1_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1147
+        width: 256
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c65489070614ae90800000000000000
+      internalID: -7015458100056140091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1147
+        width: 256
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a890ea04d0cafaeb0800000000000000
+      internalID: -4706353912659179126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1147
+        width: 256
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51433fa9e4829eb0800000000000000
+      internalID: -4714559720701869730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_3
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1147
+        width: 257
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e615a3c559b7a1a0800000000000000
+      internalID: -6798261334486739227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_4
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1147
+        width: 255
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd6b6a5441043d20800000000000000
+      internalID: 3257229823582105085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_5
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1147
+        width: 254
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7492ef3b3f9cda3b0800000000000000
+      internalID: -5499517521415493305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_6
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1147
+        width: 254
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e45543052e31f10800000000000000
+      internalID: 2239382273836535395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 792
+        width: 277
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77d31c3b339ed960800000000000000
+      internalID: 7628696701432485756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_8
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 792
+        width: 294
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165262fba939ab810800000000000000
+      internalID: 1781898895419647329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_9
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 796
+        width: 309
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efacd5316e752850800000000000000
+      internalID: 6351621805456535523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_10
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 792
+        width: 288
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52df21a56a71f5bb0800000000000000
+      internalID: -4945207862586311387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_11
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 792
+        width: 306
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7560501c5604c500800000000000000
+      internalID: 415464058105390461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_12
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 792
+        width: 299
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac79eae44c573f20800000000000000
+      internalID: 3402289494570400929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_13
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 796
+        width: 298
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce55cdfd87cf949d0800000000000000
+      internalID: -2789420898097277460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 411
+        width: 236
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ec8d83808cc0940800000000000000
+      internalID: 5263802002128293392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 407
+        width: 218
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01e827d61fb04340800000000000000
+      internalID: 4846083303870619918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_16
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 433
+        width: 273
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7674035965f3832a0800000000000000
+      internalID: -6757581599766722713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_17
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 448
+        width: 265
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e9cefeead9d84c0800000000000000
+      internalID: -4283594295884341730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_18
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 430
+        width: 262
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73dee340c2aa7aa0800000000000000
+      internalID: -6162434193445956737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_19
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 411
+        width: 257
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db8049fe43f71b20800000000000000
+      internalID: 3105217988610001880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_20
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 411
+        width: 249
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e9ebc29a3cf920800000000000000
+      internalID: 3025357451846871284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 42
+        width: 276
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33b78119c7af30f0800000000000000
+      internalID: -1135004099049704645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_22
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 42
+        width: 353
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf450e8549d64c30800000000000000
+      internalID: 4343397783404105669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_23
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 41
+        width: 351
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decd114399b1d0390800000000000000
+      internalID: -7850588230619374355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_24
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 42
+        width: 372
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e311200e1fbd74130800000000000000
+      internalID: 3551048663096758590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_25
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 40
+        width: 279
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53017db3790b48410800000000000000
+      internalID: 1478500741274865717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_26
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 42
+        width: 282
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e62a14564a6c5a0800000000000000
+      internalID: -6501328257262916049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modelo 1_27
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 29
+        width: 240
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb56976151b0150800000000000000
+      internalID: 5839784528086154185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 287acf8479c5e83489495801b5357d5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Modelo 1_0: -7015458100056140091
+      Modelo 1_1: -4706353912659179126
+      Modelo 1_10: -4945207862586311387
+      Modelo 1_11: 415464058105390461
+      Modelo 1_12: 3402289494570400929
+      Modelo 1_13: -2789420898097277460
+      Modelo 1_14: 5263802002128293392
+      Modelo 1_15: 4846083303870619918
+      Modelo 1_16: -6757581599766722713
+      Modelo 1_17: -4283594295884341730
+      Modelo 1_18: -6162434193445956737
+      Modelo 1_19: 3105217988610001880
+      Modelo 1_2: -4714559720701869730
+      Modelo 1_20: 3025357451846871284
+      Modelo 1_21: -1135004099049704645
+      Modelo 1_22: 4343397783404105669
+      Modelo 1_23: -7850588230619374355
+      Modelo 1_24: 3551048663096758590
+      Modelo 1_25: 1478500741274865717
+      Modelo 1_26: -6501328257262916049
+      Modelo 1_27: 5839784528086154185
+      Modelo 1_3: -6798261334486739227
+      Modelo 1_4: 3257229823582105085
+      Modelo 1_5: -5499517521415493305
+      Modelo 1_6: 2239382273836535395
+      Modelo 1_7: 7628696701432485756
+      Modelo 1_8: 1781898895419647329
+      Modelo 1_9: 6351621805456535523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

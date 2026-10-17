@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: b162234e18da2974cbcd113a6356e2ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2711577596288634589
+    second: Obstaculos INV_0
+  - first:
+      213: -1343226338041859317
+    second: Obstaculos INV_1
+  - first:
+      213: -6513966256946178791
+    second: Obstaculos INV_2
+  - first:
+      213: -1709529224633154911
+    second: Obstaculos INV_3
+  - first:
+      213: -9160234422796914921
+    second: Obstaculos INV_4
+  - first:
+      213: -833801134675315740
+    second: Obstaculos INV_5
+  - first:
+      213: 5832353038375186134
+    second: Obstaculos INV_6
+  - first:
+      213: -582220577265332990
+    second: Obstaculos INV_7
+  - first:
+      213: 5667797892708869980
+    second: Obstaculos INV_8
+  - first:
+      213: -6127106478410650530
+    second: Obstaculos INV_9
+  - first:
+      213: -1614887084838079160
+    second: Obstaculos INV_10
+  - first:
+      213: 3850311356315935974
+    second: Obstaculos INV_11
+  - first:
+      213: 4818427111555449069
+    second: Obstaculos INV_12
+  - first:
+      213: 5816368065723193295
+    second: Obstaculos INV_13
+  - first:
+      213: 4762072261071775380
+    second: Obstaculos INV_14
+  - first:
+      213: 2418348997477066349
+    second: Obstaculos INV_15
+  - first:
+      213: -7120678432527734774
+    second: Obstaculos INV_16
+  - first:
+      213: 8812805036508237431
+    second: Obstaculos INV_17
+  - first:
+      213: 3625172402752203750
+    second: Obstaculos INV_18
+  - first:
+      213: -3229143218895348460
+    second: Obstaculos INV_19
+  - first:
+      213: 6445874134649478998
+    second: Obstaculos INV_20
+  - first:
+      213: -4580650516412324796
+    second: Obstaculos INV_21
+  - first:
+      213: 522422509320152113
+    second: Obstaculos INV_22
+  - first:
+      213: -3306853491947379165
+    second: Obstaculos INV_23
+  - first:
+      213: 1913551726679436716
+    second: Obstaculos INV_24
+  - first:
+      213: -2624430412214785986
+    second: Obstaculos INV_25
+  - first:
+      213: -4263108492911312574
+    second: Obstaculos INV_26
+  - first:
+      213: -1378116679326915236
+    second: Obstaculos INV_27
+  - first:
+      213: 4367768248089722182
+    second: Obstaculos INV_28
+  - first:
+      213: -2362045306631563616
+    second: Obstaculos INV_29
+  - first:
+      213: -7950091375115829961
+    second: Obstaculos INV_30
+  - first:
+      213: 7446959117218291085
+    second: Obstaculos INV_31
+  - first:
+      213: -5059533529173789263
+    second: Obstaculos INV_32
+  - first:
+      213: -2045609948578192951
+    second: Obstaculos INV_33
+  - first:
+      213: -7774475467231850756
+    second: Obstaculos INV_34
+  - first:
+      213: -8487739121073835617
+    second: Obstaculos INV_35
+  - first:
+      213: -1840305804169714123
+    second: Obstaculos INV_36
+  - first:
+      213: -4059270056118684463
+    second: Obstaculos INV_37
+  - first:
+      213: -3626358444162162130
+    second: Obstaculos INV_38
+  - first:
+      213: -1695981233606002730
+    second: Obstaculos INV_39
+  - first:
+      213: 3552651970864220331
+    second: Obstaculos INV_40
+  - first:
+      213: -667237510798220216
+    second: Obstaculos INV_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obstaculos INV_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1032
+        width: 237
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321fe40fa8a8e5ad0800000000000000
+      internalID: -2711577596288634589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1032
+        width: 246
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f01423c6eb5de0800000000000000
+      internalID: -1343226338041859317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1032
+        width: 220
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91597d7a33eb995a0800000000000000
+      internalID: -6513966256946178791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1032
+        width: 280
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a287984a388648e0800000000000000
+      internalID: -1709529224633154911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_4
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1032
+        width: 263
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f62e1535f40e080800000000000000
+      internalID: -9160234422796914921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_5
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1213
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e33c52294ebd64f0800000000000000
+      internalID: -833801134675315740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_6
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1161
+        width: 203
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dee501ff2ea0f050800000000000000
+      internalID: 5832353038375186134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1101
+        width: 203
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4d2f38798be7f0800000000000000
+      internalID: -582220577265332990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_8
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1248
+        width: 194
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57ae95772018ae40800000000000000
+      internalID: 5667797892708869980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_9
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1204
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca655ee1528faa0800000000000000
+      internalID: -6127106478410650530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_10
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1239
+        width: 211
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8453cdb90c4c699e0800000000000000
+      internalID: -1614887084838079160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_11
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1222
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e42ddb57cd0f6530800000000000000
+      internalID: 3850311356315935974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_12
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1222
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0cf58cded7ed240800000000000000
+      internalID: 4818427111555449069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_13
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1135
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc75b5870f3e7b050800000000000000
+      internalID: 5816368065723193295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_14
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1084
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496acebad77461240800000000000000
+      internalID: 4762072261071775380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_15
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1015
+        width: 99
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ea89a993bf8120800000000000000
+      internalID: 2418348997477066349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_16
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 1041
+        width: 107
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08266d41b44e2d90800000000000000
+      internalID: -7120678432527734774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_17
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1084
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ec8db0d7f5d4a70800000000000000
+      internalID: 8812805036508237431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_18
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1032
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb2893e7133f4230800000000000000
+      internalID: 3625172402752203750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 447
+        width: 409
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d91e4e957cf23d0800000000000000
+      internalID: -3229143218895348460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_20
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 464
+        width: 418
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f19aeaf58547950800000000000000
+      internalID: 6445874134649478998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_21
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 456
+        width: 532
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444a809ef924e60c0800000000000000
+      internalID: -4580650516412324796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_22
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 585
+        width: 401
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13422ba1184004700800000000000000
+      internalID: 522422509320152113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_23
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 714
+        width: 168
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32667300542bb12d0800000000000000
+      internalID: -3306853491947379165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_24
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 740
+        width: 160
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad2010382d4e8a10800000000000000
+      internalID: 1913551726679436716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_25
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 602
+        width: 99
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38a436e176249bd0800000000000000
+      internalID: -2624430412214785986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_26
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 568
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2410211a96566d4c0800000000000000
+      internalID: -4263108492911312574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_27
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 576
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55ada58e22ffdce0800000000000000
+      internalID: -1378116679326915236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_28
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 524
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d3e98841e6d9c30800000000000000
+      internalID: 4367768248089722182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_29
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 431
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6d8daee44583fd0800000000000000
+      internalID: -2362045306631563616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_30
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 413
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73df256040a9ba190800000000000000
+      internalID: -7950091375115829961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_31
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 52
+        width: 384
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d17a68cd9e85760800000000000000
+      internalID: 7446959117218291085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_32
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 43
+        width: 877
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5fa60df0de8c9b0800000000000000
+      internalID: -5059533529173789263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_33
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 395
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1edf107988c93e0800000000000000
+      internalID: -2045609948578192951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_34
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 396
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe08a4e0c38b1490800000000000000
+      internalID: -7774475467231850756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_35
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 370
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9135364d3e753a80800000000000000
+      internalID: -8487739121073835617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 52
+        width: 349
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536ef581f9be576e0800000000000000
+      internalID: -1840305804169714123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_37
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 52
+        width: 356
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d47aa114639aa7c0800000000000000
+      internalID: -4059270056118684463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_38
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 43
+        width: 391
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e97355369cadc0800000000000000
+      internalID: -3626358444162162130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_39
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 352
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d77f21cd0aa678e0800000000000000
+      internalID: -1695981233606002730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_40
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 103
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba804fd052e8d4130800000000000000
+      internalID: 3552651970864220331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obstaculos INV_41
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 104
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8446e04e40f7db6f0800000000000000
+      internalID: -667237510798220216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Obstaculos INV_0: -2711577596288634589
+      Obstaculos INV_1: -1343226338041859317
+      Obstaculos INV_10: -1614887084838079160
+      Obstaculos INV_11: 3850311356315935974
+      Obstaculos INV_12: 4818427111555449069
+      Obstaculos INV_13: 5816368065723193295
+      Obstaculos INV_14: 4762072261071775380
+      Obstaculos INV_15: 2418348997477066349
+      Obstaculos INV_16: -7120678432527734774
+      Obstaculos INV_17: 8812805036508237431
+      Obstaculos INV_18: 3625172402752203750
+      Obstaculos INV_19: -3229143218895348460
+      Obstaculos INV_2: -6513966256946178791
+      Obstaculos INV_20: 6445874134649478998
+      Obstaculos INV_21: -4580650516412324796
+      Obstaculos INV_22: 522422509320152113
+      Obstaculos INV_23: -3306853491947379165
+      Obstaculos INV_24: 1913551726679436716
+      Obstaculos INV_25: -2624430412214785986
+      Obstaculos INV_26: -4263108492911312574
+      Obstaculos INV_27: -1378116679326915236
+      Obstaculos INV_28: 4367768248089722182
+      Obstaculos INV_29: -2362045306631563616
+      Obstaculos INV_3: -1709529224633154911
+      Obstaculos INV_30: -7950091375115829961
+      Obstaculos INV_31: 7446959117218291085
+      Obstaculos INV_32: -5059533529173789263
+      Obstaculos INV_33: -2045609948578192951
+      Obstaculos INV_34: -7774475467231850756
+      Obstaculos INV_35: -8487739121073835617
+      Obstaculos INV_36: -1840305804169714123
+      Obstaculos INV_37: -4059270056118684463
+      Obstaculos INV_38: -3626358444162162130
+      Obstaculos INV_39: -1695981233606002730
+      Obstaculos INV_4: -9160234422796914921
+      Obstaculos INV_40: 3552651970864220331
+      Obstaculos INV_41: -667237510798220216
+      Obstaculos INV_5: -833801134675315740
+      Obstaculos INV_6: 5832353038375186134
+      Obstaculos INV_7: -582220577265332990
+      Obstaculos INV_8: 5667797892708869980
+      Obstaculos INV_9: -6127106478410650530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 7a8dff1d11d63174db4292dcd95cf92d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7404743854900485498
+    second: PixeleadoADO_0
+  - first:
+      213: 8620329565242871787
+    second: PixeleadoADO_1
+  - first:
+      213: -5555957080559545662
+    second: PixeleadoADO_2
+  - first:
+      213: 7817531609480751661
+    second: PixeleadoADO_3
+  - first:
+      213: 5934154160594901757
+    second: PixeleadoADO_4
+  - first:
+      213: -7248585649872477391
+    second: PixeleadoADO_5
+  - first:
+      213: -8332541363994154421
+    second: PixeleadoADO_6
+  - first:
+      213: -1564942884484119065
+    second: PixeleadoADO_7
+  - first:
+      213: -6962465978298218590
+    second: PixeleadoADO_8
+  - first:
+      213: 3091625547436818867
+    second: PixeleadoADO_9
+  - first:
+      213: 8348366916663001531
+    second: PixeleadoADO_10
+  - first:
+      213: 2252429055520553937
+    second: PixeleadoADO_11
+  - first:
+      213: -4059890016116278134
+    second: PixeleadoADO_12
+  - first:
+      213: 6447579790872573333
+    second: PixeleadoADO_13
+  - first:
+      213: -5019542426584583703
+    second: PixeleadoADO_14
+  - first:
+      213: 4866824783000901848
+    second: PixeleadoADO_15
+  - first:
+      213: -7834535701544045935
+    second: PixeleadoADO_16
+  - first:
+      213: 4911489302736454399
+    second: PixeleadoADO_17
+  - first:
+      213: -174517397801078600
+    second: PixeleadoADO_18
+  - first:
+      213: 5893845104937636195
+    second: PixeleadoADO_19
+  - first:
+      213: 8034243633872862949
+    second: PixeleadoADO_20
+  - first:
+      213: -4899420173211061382
+    second: PixeleadoADO_21
+  - first:
+      213: -8356405772820320308
+    second: PixeleadoADO_22
+  - first:
+      213: -90009119437522888
+    second: PixeleadoADO_23
+  - first:
+      213: 6841163279017021452
+    second: PixeleadoADO_24
+  - first:
+      213: 4311146771634875884
+    second: PixeleadoADO_25
+  - first:
+      213: 3227143667341258005
+    second: PixeleadoADO_26
+  - first:
+      213: 680468931596279419
+    second: PixeleadoADO_27
+  - first:
+      213: 2859728402374824258
+    second: PixeleadoADO_28
+  - first:
+      213: -6684514830290388927
+    second: PixeleadoADO_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixeleadoADO_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1211
+        width: 315
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d9914dd4fe2c660800000000000000
+      internalID: 7404743854900485498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1211
+        width: 322
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef491f211091a770800000000000000
+      internalID: 8620329565242871787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1211
+        width: 329
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c29ee1d87645e2b0800000000000000
+      internalID: -5555957080559545662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_3
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1211
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aec7b64937d7c60800000000000000
+      internalID: 7817531609480751661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_4
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1211
+        width: 325
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5aa0c4c95a5250800000000000000
+      internalID: 5934154160594901757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_5
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1211
+        width: 311
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1336b5f81c9d76b90800000000000000
+      internalID: -7248585649872477391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_6
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1211
+        width: 312
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a21e2f6cddc5c80800000000000000
+      internalID: -8332541363994154421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 767
+        width: 282
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e58c8cecb4384ae0800000000000000
+      internalID: -1564942884484119065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 763
+        width: 267
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7cacad41a506f90800000000000000
+      internalID: -6962465978298218590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_9
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 771
+        width: 283
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b18e752e09a7ea20800000000000000
+      internalID: 3091625547436818867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_10
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 764
+        width: 267
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1425aaa7b5bd370800000000000000
+      internalID: 8348366916663001531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_11
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 771
+        width: 289
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db3218ca4c324f10800000000000000
+      internalID: 2252429055520553937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_12
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 765
+        width: 265
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cfb326a8f58a7c0800000000000000
+      internalID: -4059890016116278134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_13
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 767
+        width: 274
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59572f7b8a76a7950800000000000000
+      internalID: 6447579790872573333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 328
+        width: 367
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e17c68f1c0075ab0800000000000000
+      internalID: -5019542426584583703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 326
+        width: 353
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d816d6ca5f6a8340800000000000000
+      internalID: 4866824783000901848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 467
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192f951e943264390800000000000000
+      internalID: -7834535701544045935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 327
+        width: 328
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2ccb7af7d192440800000000000000
+      internalID: 4911489302736454399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_18
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 327
+        width: 291
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0f0f0f95df39df0800000000000000
+      internalID: -174517397801078600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_19
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 334
+        width: 343
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3619bf065e42bc150800000000000000
+      internalID: 5893845104937636195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_20
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 327
+        width: 312
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee7feb840e5f7f60800000000000000
+      internalID: 8034243633872862949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_21
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 327
+        width: 366
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a733f5a8f43c10cb0800000000000000
+      internalID: -4899420173211061382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 349
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf65084935180c80800000000000000
+      internalID: -8356405772820320308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 31
+        width: 348
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387169ce2930cef0800000000000000
+      internalID: -90009119437522888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_24
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 31
+        width: 344
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00914891c1b0fe50800000000000000
+      internalID: 6841163279017021452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_25
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 55
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced6ed9b52544db30800000000000000
+      internalID: 4311146771634875884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_26
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 41
+        width: 342
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51de60b311e19cc20800000000000000
+      internalID: 3227143667341258005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_27
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 33
+        width: 330
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e5c7453e2817900800000000000000
+      internalID: 680468931596279419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_28
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 37
+        width: 329
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24195a994dbcfa720800000000000000
+      internalID: 2859728402374824258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixeleadoADO_29
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 37
+        width: 332
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f5bc8d25db33a0800000000000000
+      internalID: -6684514830290388927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixeleadoADO_0: 7404743854900485498
+      PixeleadoADO_1: 8620329565242871787
+      PixeleadoADO_10: 8348366916663001531
+      PixeleadoADO_11: 2252429055520553937
+      PixeleadoADO_12: -4059890016116278134
+      PixeleadoADO_13: 6447579790872573333
+      PixeleadoADO_14: -5019542426584583703
+      PixeleadoADO_15: 4866824783000901848
+      PixeleadoADO_16: -7834535701544045935
+      PixeleadoADO_17: 4911489302736454399
+      PixeleadoADO_18: -174517397801078600
+      PixeleadoADO_19: 5893845104937636195
+      PixeleadoADO_2: -5555957080559545662
+      PixeleadoADO_20: 8034243633872862949
+      PixeleadoADO_21: -4899420173211061382
+      PixeleadoADO_22: -8356405772820320308
+      PixeleadoADO_23: -90009119437522888
+      PixeleadoADO_24: 6841163279017021452
+      PixeleadoADO_25: 4311146771634875884
+      PixeleadoADO_26: 3227143667341258005
+      PixeleadoADO_27: 680468931596279419
+      PixeleadoADO_28: 2859728402374824258
+      PixeleadoADO_29: -6684514830290388927
+      PixeleadoADO_3: 7817531609480751661
+      PixeleadoADO_4: 5934154160594901757
+      PixeleadoADO_5: -7248585649872477391
+      PixeleadoADO_6: -8332541363994154421
+      PixeleadoADO_7: -1564942884484119065
+      PixeleadoADO_8: -6962465978298218590
+      PixeleadoADO_9: 3091625547436818867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

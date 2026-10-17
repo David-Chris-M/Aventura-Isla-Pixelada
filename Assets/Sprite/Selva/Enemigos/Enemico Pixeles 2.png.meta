@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 7f10b6acc8dd72b49a530fbd49a99fd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1783804866277370283
+    second: Enemico Pixeles 2_0
+  - first:
+      213: 8667071041463792737
+    second: Enemico Pixeles 2_1
+  - first:
+      213: 2737178234682260326
+    second: Enemico Pixeles 2_2
+  - first:
+      213: 7389421220247615765
+    second: Enemico Pixeles 2_3
+  - first:
+      213: -8400657860900247684
+    second: Enemico Pixeles 2_4
+  - first:
+      213: 8939244130654448014
+    second: Enemico Pixeles 2_5
+  - first:
+      213: -6018689762245524286
+    second: Enemico Pixeles 2_6
+  - first:
+      213: -7376325554578622838
+    second: Enemico Pixeles 2_7
+  - first:
+      213: -5994826963236799800
+    second: Enemico Pixeles 2_8
+  - first:
+      213: -8094398042606772868
+    second: Enemico Pixeles 2_9
+  - first:
+      213: -8738794628154308459
+    second: Enemico Pixeles 2_10
+  - first:
+      213: 5672593083860311191
+    second: Enemico Pixeles 2_11
+  - first:
+      213: 7967084749080028725
+    second: Enemico Pixeles 2_12
+  - first:
+      213: -6926757063138654594
+    second: Enemico Pixeles 2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 876
+        width: 303
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9631b231951c810800000000000000
+      internalID: 1783804866277370283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 876
+        width: 257
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164368d213f974870800000000000000
+      internalID: 8667071041463792737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 876
+        width: 297
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bba2d2a196cf520800000000000000
+      internalID: 2737178234682260326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 918
+        width: 324
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b790f27f7c8660800000000000000
+      internalID: 7389421220247615765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_4
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 876
+        width: 328
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77a2712f2eda6b80800000000000000
+      internalID: -8400657860900247684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_5
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 876
+        width: 352
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e896728bc239e0c70800000000000000
+      internalID: 8939244130654448014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_6
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 876
+        width: 304
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c44314bc81597ca0800000000000000
+      internalID: -6018689762245524286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 120
+        width: 442
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8674b35df602a990800000000000000
+      internalID: -7376325554578622838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 120
+        width: 357
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca365e83a81ecca0800000000000000
+      internalID: -5994826963236799800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_9
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 284
+        width: 335
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d5ecfbddbeaaf80800000000000000
+      internalID: -8094398042606772868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_10
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 239
+        width: 406
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59845c7f59099b680800000000000000
+      internalID: -8738794628154308459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_11
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 120
+        width: 346
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cd4d6ea5919be40800000000000000
+      internalID: 5672593083860311191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_12
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 120
+        width: 430
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536e85c2e55c09e60800000000000000
+      internalID: 7967084749080028725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemico Pixeles 2_13
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 120
+        width: 439
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76413e86273fdf90800000000000000
+      internalID: -6926757063138654594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemico Pixeles 2_0: 1783804866277370283
+      Enemico Pixeles 2_1: 8667071041463792737
+      Enemico Pixeles 2_10: -8738794628154308459
+      Enemico Pixeles 2_11: 5672593083860311191
+      Enemico Pixeles 2_12: 7967084749080028725
+      Enemico Pixeles 2_13: -6926757063138654594
+      Enemico Pixeles 2_2: 2737178234682260326
+      Enemico Pixeles 2_3: 7389421220247615765
+      Enemico Pixeles 2_4: -8400657860900247684
+      Enemico Pixeles 2_5: 8939244130654448014
+      Enemico Pixeles 2_6: -6018689762245524286
+      Enemico Pixeles 2_7: -7376325554578622838
+      Enemico Pixeles 2_8: -5994826963236799800
+      Enemico Pixeles 2_9: -8094398042606772868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
